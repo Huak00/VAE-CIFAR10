@@ -36,8 +36,3 @@ Traditional Autoencoders suffer from limited generative capability. VAEs introdu
 - Implement **Beta-VAE** to improve disentanglement.
 - Use **CelebA** dataset for higher-quality images.
 
-## Running the Code
-```bash
-git clone https://github.com/your_username/VAE-CIFAR10.git
-cd VAE-CIFAR10
-python train.py
