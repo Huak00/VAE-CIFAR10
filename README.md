@@ -28,8 +28,8 @@ Traditional Autoencoders suffer from limited generative capability. VAEs introdu
 - Latent Dimension: **128**
 
 ## Results
-✅ Successfully trained on CIFAR-10  
-✅ Generated images with VAE  
+ Successfully trained on CIFAR-10  
+ Generated images with VAE  
 
 ## Next Steps
 - Experiment with different architectures.
