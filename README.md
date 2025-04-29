@@ -31,8 +31,5 @@ Traditional Autoencoders suffer from limited generative capability. VAEs introdu
  Successfully trained on CIFAR-10  
  Generated images with VAE  
 
-## Next Steps
-- Experiment with different architectures.
-- Implement **Beta-VAE** to improve disentanglement.
-- Use **CelebA** dataset for higher-quality images.
+
 
