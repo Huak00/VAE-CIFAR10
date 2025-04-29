@@ -1,0 +1,16 @@
+# 忽略PyCharm设置
+.idea/
+
+# 忽略数据集
+data/
+
+# 忽略临时输出
+results/
+outputs/
+
+# 忽略Python编译缓存
+__pycache__/
+*.pyc
+
+# 忽略模型权重文件
+*.pth
