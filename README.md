@@ -34,15 +34,19 @@ Traditional Autoencoders suffer from limited generative capability. VAEs introdu
 - The CIFAR-10 dataset is downloaded automatically using torchvision.datasets.
 - No manual download is needed. If necessary, you can manually download from [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html) and place it in the `data/` folder.
 
-##How to Run
+## How to Run
+
 Install the necessary packages:
 pip install -r requirements.txt
+
 Running Training
 To train the VAE model:
 python train.py
+
 Generating and Comparing Images
 After training, you can generate and compare images:
 python generate_compare.py
+
 Running the Streamlit Web App
 To launch the web application for random generation and reconstruction:
 streamlit run app.py
